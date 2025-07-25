@@ -1,0 +1,767 @@
+G:\Bookshope\Bookshope\bin\Bookshope.dll.config
+G:\Bookshope\Bookshope\bin\Bookshope.dll
+G:\Bookshope\Bookshope\bin\Bookshope.pdb
+G:\Bookshope\Bookshope\bin\roslyn\csc.exe
+G:\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+G:\Bookshope\Bookshope\bin\roslyn\csc.rsp
+G:\Bookshope\Bookshope\bin\roslyn\csi.exe
+G:\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+G:\Bookshope\Bookshope\bin\roslyn\csi.rsp
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+G:\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Bookshope\Bookshope\bin\roslyn\vbc.exe
+G:\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+G:\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+G:\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+G:\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+G:\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+G:\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+G:\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CopyComplete
+G:\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+G:\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll.config
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\Bookshope.pdb
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.rsp
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.rsp
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+C:\Users\adm\Downloads\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll.config
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.pdb
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.rsp
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.rsp
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+H:\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+H:\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+H:\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+H:\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll.config
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.pdb
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.rsp
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.rsp
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+\\10.112.70.128\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll.config
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.pdb
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.rsp
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.rsp
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+\\ait2020\202203\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll.config
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Bookshope.pdb
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csc.rsp
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\csi.rsp
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+E:\sem5 project\sem5 project\Bookshope\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\Bookshope.dll.config
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\Bookshope.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\Bookshope.pdb
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csc.exe
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csc.rsp
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csi.exe
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\csi.rsp
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\vbc.exe
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.112.70.128\202203\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+\\10.112.70.128\202203\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+\\10.112.70.128\202203\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+\\10.112.70.128\202203\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+\\10.112.70.128\202203\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+H:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+H:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+H:\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+H:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+H:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+H:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+H:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+H:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+H:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+\\10.112.70.128\202203\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+D:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+D:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+D:\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+D:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+D:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+D:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+D:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+D:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+D:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+C:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+C:\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+C:\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+C:\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+C:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+C:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+C:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+C:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+C:\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CopyComplete
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+C:\Users\Student\Desktop\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll.config
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\Bookshope.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\Bookshope.pdb
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.exe.config
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csc.rsp
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.exe.config
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\csi.rsp
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Managed.Core.targets
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.AppContext.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Collections.Immutable.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Console.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Globalization.Calendars.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Http.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Net.Sockets.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Reflection.Metadata.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.ValueTuple.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.ReaderWriter.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XmlDocument.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.exe.config
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\vbc.rsp
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\roslyn\VBCSCompiler.exe.config
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.AssemblyReference.cache
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.CoreCompileInputs.cache
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.csproj.Up2Date
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.dll
+\\10.112.70.128\202203\Final Project\newProject2024\Bookshope\Bookshope\obj\Debug\Bookshope.pdb

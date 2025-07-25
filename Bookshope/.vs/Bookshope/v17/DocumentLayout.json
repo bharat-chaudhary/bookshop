@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\final project\\newproject2024\\bookshope\\bookshope\\adminusermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\final project\\newproject2024\\bookshope\\bookshope\\userhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\userorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminuseradditems.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminusermanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminordermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminaddproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\audittable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\audittable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Resetpassword.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\orderform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\orderform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\AppData\\Local\\Temp\\tufrmzyk..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminordermanage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\userorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.OrderDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\adminaddproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A64F4B-B48C-498F-B27A-8F4AF3F59758}|Bookshope\\Bookshope.csproj|\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\bookshope\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserHistory.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserHistory.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\UserHistory.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserHistory.aspx",
+              "RelativeToolTip": "Bookshope\\UserHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T06:33:20.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminOrderManage.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminOrderManage.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AdminOrderManage.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminOrderManage.aspx",
+              "RelativeToolTip": "Bookshope\\AdminOrderManage.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:01:51.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminUserManage.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserManage.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\AdminUserManage.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserManage.aspx.cs",
+              "RelativeToolTip": "Bookshope\\AdminUserManage.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:10:43.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUserAddItems.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserAddItems.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AdminUserAddItems.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserAddItems.aspx",
+              "RelativeToolTip": "Bookshope\\AdminUserAddItems.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T09:07:41.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminUserManage.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserManage.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AdminUserManage.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminUserManage.aspx",
+              "RelativeToolTip": "Bookshope\\AdminUserManage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T05:37:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfile.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserProfile.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\UserProfile.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserProfile.aspx",
+              "RelativeToolTip": "Bookshope\\UserProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:38:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserOrder.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserOrder.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\UserOrder.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserOrder.aspx",
+              "RelativeToolTip": "Bookshope\\UserOrder.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T08:56:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminAddProduct.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminAddProduct.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AdminAddProduct.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminAddProduct.aspx",
+              "RelativeToolTip": "Bookshope\\AdminAddProduct.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T06:15:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditTable.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AuditTable.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AuditTable.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AuditTable.aspx",
+              "RelativeToolTip": "Bookshope\\AuditTable.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:40:23.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditTable.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AuditTable.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\AuditTable.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AuditTable.aspx.cs",
+              "RelativeToolTip": "Bookshope\\AuditTable.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:20:44.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Admin.Master",
+              "RelativeDocumentMoniker": "Bookshope\\Admin.Master",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Admin.Master",
+              "RelativeToolTip": "Bookshope\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:44:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Login.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\Login.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Login.aspx",
+              "RelativeToolTip": "Bookshope\\Login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T10:41:43.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserOrder.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserOrder.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\UserOrder.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\UserOrder.aspx.cs",
+              "RelativeToolTip": "Bookshope\\UserOrder.aspx.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:56:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tufrmzyk..sql",
+              "DocumentMoniker": "C:\\Users\\Student\\AppData\\Local\\Temp\\tufrmzyk..sql",
+              "ToolTip": "C:\\Users\\Student\\AppData\\Local\\Temp\\tufrmzyk..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-26T09:36:34.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-28T05:57:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderForm.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\OrderForm.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\OrderForm.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\OrderForm.aspx",
+              "RelativeToolTip": "Bookshope\\OrderForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T10:40:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resetpassword.Master",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Resetpassword.Master",
+              "RelativeDocumentMoniker": "Bookshope\\Resetpassword.Master",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Resetpassword.Master",
+              "RelativeToolTip": "Bookshope\\Resetpassword.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T10:48:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderForm.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\OrderForm.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\OrderForm.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\OrderForm.aspx.cs",
+              "RelativeToolTip": "Bookshope\\OrderForm.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:40:47.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "Bookshope\\AdminHome.aspx",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminHome.aspx",
+              "RelativeToolTip": "Bookshope\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T08:53:50.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.OrderDetails.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.OrderDetails.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.OrderDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-26T08:44:49.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__NEWPROJECT2024_BOOKSHOPE_BOOKSHOPE_APP_DATA_BOOKSHOP.MDF/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-26T08:37:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminAddProduct.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminAddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\AdminAddProduct.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminAddProduct.aspx.cs",
+              "RelativeToolTip": "Bookshope\\AdminAddProduct.aspx.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:19:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminOrderManage.aspx.cs",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminOrderManage.aspx.cs",
+              "RelativeDocumentMoniker": "Bookshope\\AdminOrderManage.aspx.cs",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\AdminOrderManage.aspx.cs",
+              "RelativeToolTip": "Bookshope\\AdminOrderManage.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:30:42.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.Master",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\User.Master",
+              "RelativeDocumentMoniker": "Bookshope\\User.Master",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\User.Master",
+              "RelativeToolTip": "Bookshope\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-22T03:52:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "main.js",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\main.js",
+              "RelativeDocumentMoniker": "Bookshope\\main.js",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\main.js",
+              "RelativeToolTip": "Bookshope\\main.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T03:37:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Css\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "Bookshope\\Css\\StyleSheet1.css",
+              "ToolTip": "\\\\10.112.70.128\\202203\\Final Project\\newProject2024\\Bookshope\\Bookshope\\Css\\StyleSheet1.css",
+              "RelativeToolTip": "Bookshope\\Css\\StyleSheet1.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T03:37:44.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
