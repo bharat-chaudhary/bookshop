@@ -150,6 +150,3 @@ FOREIGN KEY (O_ID) REFERENCES Order(O_ID)
 * **Developer:** Chaudhary BharatBhai BhuraBhai
 
 
----
-
-If you want, I can now **combine this README with the one from your Freelancer Logistics project** so both appear in **one professional multi-project portfolio README** with proper diagrams, ERDs, and DFDs included. That way, you’ll have a single polished document for both systems.
